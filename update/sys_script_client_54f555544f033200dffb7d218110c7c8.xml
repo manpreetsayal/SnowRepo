@@ -22,7 +22,7 @@
    }
    else
       {
-      g_form.addErrorMessage("Employee Number" + newValue + " Could Not Be Found! Please Enter Employee Number Again");
+      g_form.addErrorMessage("Employee Number" + newValue + " Could Not Be Found! Please Enter Employee Number Again!!!");
    }
       
 }]]></script>
